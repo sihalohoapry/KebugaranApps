@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">KebugaranApps</string>
+    <string name="selamat_datang_di">Selamat Datang Di</string>
+    <string name="silahkan">Silahkan Input</string>
+    <string name="data_diri">Data Diri Anda</string>
+    <string name="klasifikasi">Klasifikasi</string>
+    <string name="kebugaran">Kebugaran</string>
+    <string name="kebugaran_jasmani">Kebugaran Jasmani</string>
+    <string name="nama">Nama</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="aplikasi_tes_pengukuran">Aplikasi Tes Dan Pengukuran</string>
+    <string name="hint_lari">Hasil Tes dalam menit (ex: 18.12)</string>
+    <string name="hint_sbj">Masukkan Hasil Tes dalam cm (ex 201)</string>
+    <string name="hint_sprint">Hasil Tes dalam satuan detik (ex : 4.20)</string>
+    <string name="_4_06_4_50_detik">4.06 - 4.50 detik</string>
+    <string name="_10_55_menit"><![CDATA[<10.55 menit]]></string>
+    <string name="_10_59_13_20_menit">10.59 - 13.20 menit</string>
+    <string name="_13_26_15_30_menit">13.26 - 15.30 menit</string>
+    <string name="_14_47_18_57_menit">14.47 - 18.57 menit</string>
+    <string name="_18_57_menit"><![CDATA[>18.57 menit]]></string>
+    <string name="_151_160_cm">151 - 160 cm</string>
+    <string name="_141_150_cm">141 - 150 cm</string>
+    <string name="_131_140_cm">131 - 140 cm</string>
+    <string name="_130_cm"><![CDATA[<130 cm]]></string>
+    <string name="_25_34_kali">25 - 34 Kali</string>
+    <string name="_15_24_kali">15 - 24 Kali</string>
+    <string name="_5_14_kali">5 - 14 Kali</string>
+    <string name="_4_kali"><![CDATA[<4 kali]]></string>
+    <string name="_21_25_kali">21 - 25 Kali</string>
+    <string name="_16_20_kali">16 - 20 Kali</string>
+    <string name="_11_15_kali">11 - 15 Kali</string>
+    <string name="_11_kali"><![CDATA[< 11 kali]]></string>
+    <string name="_4_51_4_96_detik">4.51 - 4.96 detik</string>
+    <string name="_4_97_5_40_detik">4.97 - 5.40 detik</string>
+    <string name="_5_41_5_86_detik">5.41 - 5.86 detik</string>
+    <string name="_5_86detik"><![CDATA[>5.86detik]]></string>
+    <string name="baik">Baik</string>
+    <string name="_10_17_menit"><![CDATA[<10.17 menit]]></string>
+    <string name="_10_20_12_00_menit">10.20 - 12.00 menit</string>
+    <string name="_12_05_14_24_menit">12.05 - 14.24 menit</string>
+    <string name="_14_30_18_00_menit">14.30 - 18.00 menit</string>
+    <string name="_18_00_menit"><![CDATA[>18.00 menit]]></string>
+    <string name="_191_200_cm">191 - 200 cm</string>
+    <string name="_181_190_cm">181 - 190 cm</string>
+    <string name="_171_180_cm">171 - 180 cm</string>
+    <string name="_170_cm"><![CDATA[<170 cm]]></string>
+    <string name="_36_45_kali">36 - 45 Kali</string>
+    <string name="_26_35_kali">26 - 35 Kali</string>
+    <string name="_16_25_kali">16 - 25 Kali</string>
+    <string name="_15_kali"><![CDATA[<15 kali]]></string>
+    <string name="_26_30_kali">26 - 30 Kali</string>
+    <string name="_20_25_kali">20 - 25 Kali</string>
+    <string name="_16_19_kali">16 - 19 Kali</string>
+    <string name="_16_kali"><![CDATA[< 16 kali]]></string>
+    <string name="_3_92_4_34_detik">3.92 - 4.34 detik</string>
+    <string name="_4_35_4_72_detik">4.35 - 4.72 detik</string>
+    <string name="_4_73_5_11_detik">4.73 - 5.11 detik</string>
+    <string name="_5_12detik"><![CDATA[>5.12detik]]></string>
+    <string name="sp">Sprint Test 20 Meter</string>
+    <string name="push_up_test_1_menit">Push Up Test 1 Menit</string>
+    <string name="sit_up_test_1_menit">Sit Up Test 1 Menit</string>
+    <string name="standing_broad_jump">Standing Broad Jump</string>
+    <string name="lari_2400_m_6x_lapangan_bola">Lari 2400 M 6x Lapangan Bola</string>
+    <string-array name="jenis_kelamin">
+        <item>Silahkan diisi</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+</resources>

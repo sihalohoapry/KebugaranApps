@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546196916398",
+    "firebase_url": "https://kebugaranapps.firebaseio.com",
+    "project_id": "kebugaranapps",
+    "storage_bucket": "kebugaranapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546196916398:android:50f8c11e4dba50f468453f",
+        "android_client_info": {
+          "package_name": "com.sihaloho.kebugaranapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546196916398-84mig21nacp5hinvqiatrbn2mauhtovu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sihaloho.kebugaranapps",
+            "certificate_hash": "4f755b8268fa2bfe2faed2833978e5cb922029fe"
+          }
+        },
+        {
+          "client_id": "546196916398-v6ul8t45g2knjskjd3jj5iis10nl902h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4UkzVzYxVwxZ3CXz_nfkUI97uxX7F64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546196916398-v6ul8t45g2knjskjd3jj5iis10nl902h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
